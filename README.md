@@ -1,1 +1,1 @@
-# cronometro
+# Cronômetro com JavaScript⏳
